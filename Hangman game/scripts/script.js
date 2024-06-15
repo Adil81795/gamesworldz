@@ -36,6 +36,7 @@ const gameOver = (isVictory) => {
     gameModal.querySelector("p").innerHTML = `${modalText} <b>${currentWord}</b>`;
     gameModal.classList.add("show");
 }
+
 const initGame = (button, clickedLetter) => {
     // Checking if clickedLetter is exist on the currentWord
     if(currentWord.includes(clickedLetter)) {
