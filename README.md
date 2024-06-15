@@ -1,4 +1,4 @@
-# game-horizon
+# gamesworldz
 
 ## Platform game collection website
 
