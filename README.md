@@ -2,4 +2,4 @@
 
 ## Platform game collection website
 
-### Use this link : [https://adil81795.github.io/gamesworldz/](https://gamesworldz.netlify.app/)
+### Use this link : https://gamesworldz.netlify.app/
